@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neerajkumar4
+- 👋 Hi, I’m Neeraj Kumar.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on software development projects.
