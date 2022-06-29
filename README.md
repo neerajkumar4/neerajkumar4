@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Neeraj Kumar.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on software development projects.
+- 🌱 I’m currently learning backend development.
+- 💞️ I’m looking to collaborate on web development projects.
 - 📫 Email- nk4976744@gmail.com
 
 <!---
