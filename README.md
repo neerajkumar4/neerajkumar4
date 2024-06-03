@@ -1,6 +1,6 @@
 <img align="right" alt="coding" width="400" src="https://media.baamboozle.com/uploads/images/424783/1639544348_407236_gif-url.gif">
 # 💫 About Me:
-🔭 I’m currently working on MERN full Stack projects<br><br>🌱 I’m currently learning Computer Vision<br><br>👯 I’m looking to collaborate on web projects<br><br>💬 Ask me about react js, node js<br><br>📫 How to reach me nk4976744@gmail.com<br><br>⚡ Fun fact I am funny
+🔭 I’m currently working on MERN full Stack projects<br><br>🌱 I’m currently learning Computer Vision<br><br>👯 I’m looking to collaborate on web projects<br><br>💬 Ask me about next js, node js<br><br>📫 How to reach me nk4976744@gmail.com<br><br>⚡ Fun fact I am funny
 
 
 ## 🌐 Socials:
